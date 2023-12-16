@@ -111,7 +111,8 @@ function IconsApps() {
                                 <img
                                     src="https://i.pinimg.com/originals/79/8d/e4/798de415648b7a715c90965e7e73dbb1.gif"
                                     alt=""
-                                    className="bg-cover h-min w-min rounded"
+                                    // className="bg-cover h-min w-min rounded"
+                                    // height={"100px"}
                                 />
                                 <label
                                     htmlFor=""

@@ -17,7 +17,7 @@ use Inertia\Inertia;
 */
 
 Route::get('/ibo', function () {
-    return Inertia::render('ibo.tsx');
+    return Inertia::render('ibo');
 });
 
 
